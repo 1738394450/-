@@ -1,4 +1,5 @@
 基于Python：
+![Image text](https://attach.52pojie.cn/forum/202006/26/081940oe0yrl2blq5plr0e.png)
 
 基于Python的学小易电脑版。
 需要自己登录账号，登录一次就行。
