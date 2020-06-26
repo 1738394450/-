@@ -133,6 +133,6 @@ b2 = tk.Button(window, text='清空',command=_clear)
 b2.place(height = 55,width = 129,x = 385,y = 100)
 t3 = tk.Text(window)
 t3.place(height = 320,width = 365,x = 607,y = 270)
-t3.insert(END, '                    \t ---\tby IT萌主  \n\n使用说明！！！\n登录一次就ok，可以看看软件目录下是否生成：密码.txt。\n\n使用本软件封号概不负责！！！')
+t3.insert(END, '                    \t ---\tby IT萌主QQ：1738394450  \n\n使用说明！！！\n登录一次就ok，可以看看软件目录下是否生成：密码.txt。\n\n使用本软件封号概不负责！！！')
 window.mainloop()
 
